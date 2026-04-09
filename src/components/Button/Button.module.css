@@ -13,7 +13,7 @@
 }
 
 .icon {
-    background-color: none;
+    background: none;
     font-size: var(--font-size-l);
     border: none;
     padding: 0.5rem;

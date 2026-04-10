@@ -1,10 +1,17 @@
+<div style="display: flex; text-align: center; width: 100%; gap:10px">
+    <span>Conecte-se comigo no linkedin:</span>
+    <a href="https://www.linkedin.com/in/inacio-souza/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square"/>
+    </a>
+</div>
+
 # Luz e Cena
-Aplicação React para listar filmes em cartaz nos cinemas (Dados mockados).
+Aplicação React + Vite para listar filmes em cartaz nos cinemas (Dados mockados).
 
 # Como rodar
 - Tenha o Node e npm instalados na sua máquina
- - Clone o porjeto
- - Abra o terminal na pasta do projeto execute os seguintes comandos:
+ - Clone o projeto
+ - Abra o terminal na pasta do projeto e execute os comandos:
     - `npm install`
     - `npm run dev`
 
@@ -15,10 +22,10 @@ Aplicação React para listar filmes em cartaz nos cinemas (Dados mockados).
 
 # Seções da interface
 
-## Cabeçalo e Banner
+## Cabeçalho e Banner
 ![Imagem Cabeçalho e Banner](./project_images/cabecalho_e_banner.png)
 
-## Pesquisa e Listagem de filmes
+## Pesquisa e Listagem de Filmes
 ![Imagem Pesquisa e Listagem](./project_images/pesquisa_e_listagem.png)
 
 ## Inscrição e Rodapé
